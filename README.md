@@ -3,14 +3,12 @@
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
 ## Testing Project run:
-clone or download the project from https://github.com/amitms/Feed_Reader_Testing. Testing suites has been created in file Jasmine > specs> feedreader.js file. 
+clone or download the project from https://github.com/amitms/Feed_Reader_Testing. Testing suites has been created in file Jasmine > specs> feedreader.js file. run index.html in browser.
 
 source javascript file for Jasmine is app.js and spec file is feedreader.js
 
 ## Testing Result: 
 Testing Result can be found in index.html at the bottom. Please scroll down to the bottom. all 7 testing and results can be individually clicked to run the particular test. if fails there will be red jasmine page.
-
-the demo page is in https://amitms.github.io/Feed_Reader_Testing/
 
 ## Why this Project?
 
