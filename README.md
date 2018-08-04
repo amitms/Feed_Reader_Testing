@@ -10,6 +10,8 @@ source javascript file for Jasmine is app.js and spec file is feedreader.js
 ## Testing Result: 
 Testing Result can be found in index.html at the bottom. Please scroll down to the bottom. all 7 testing and results can be individually clicked to run the particular test. if fails there will be red jasmine page.
 
+the demo page is in https://amitms.github.io/Feed_Reader_Testing/
+
 ## Why this Project?
 
 Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". This is when developers write tests first, before they ever start developing their application. All the tests initially fail and then they start writing application code to make these tests pass.
